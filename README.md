@@ -5,7 +5,7 @@
 # Pikachu 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Pikachu suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Pikachu_lava_bot](https://t.me/Pikachu_lava_bot).
+Can be found on telegram as [Pikachu_bot](https://t.me/Dangerx_VIPbot).
 
 The Support group can be reached out to at [Eagle union Support](https://t.me/pikachubotsupport), where you can ask for help about [Pikachu_lava_bot](https://t.me/Pikachu_lava_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
@@ -18,3 +18,4 @@ News channel as at [Pikachu Updates](https://t.me/pikachubotUpdates)
 #and some cmnds and others are taken from other bots too..so credits to the respective owners (θ‿θ) 
 
 #afk,filter,note, song, video and many Plugins working
+Made by @AayushxKUMARVIP
